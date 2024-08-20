@@ -1,4 +1,4 @@
-window.onload = function() {
+let showMap = function() {
 
 
     //initializing the map and setyting its view to the specified geographical coordinates and zoom level
